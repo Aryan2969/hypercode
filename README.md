@@ -1,4 +1,4 @@
-# hypercode
+# Hyper code
 
 Steps to raise a PR:
 
